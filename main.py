@@ -118,3 +118,6 @@ for line in f.readlines():
     else:
         d[campaignId]["clicks"].append(new_clicks)
         d[campaignId]["conversions"].append(new_conversions)
+
+my_change = "we have touched the file ;-)"
+print(my_change)
